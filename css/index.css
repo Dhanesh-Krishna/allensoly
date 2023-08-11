@@ -3,14 +3,40 @@
     display: flex;
     justify-content: space-between;
     height: 80px;
+    background-color: black;
 }
 .left{
     display: flex;
     justify-content:space-between ;
+    padding-left: 30px;
     
 }
 .right{
     display: flex;
     justify-content: space-between;
     gap: 10px;
+    color: aliceblue;
+    padding: 25px;
+}
+.container2{
+    display: flex;
+    justify-content:space-between;
+    
+    
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+.para a{
+    text-decoration: none;
 }
